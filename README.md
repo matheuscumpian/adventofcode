@@ -8,6 +8,15 @@ For this year, i have choosen Go as my main language for the puzzles, all of sol
 ![Gopher](https://github.com/gopher-lang/gopher/blob/master/doc/gopher/fiveyears.jpg?raw=true)
 
 
+## Puzzles
+
+### [Day 1] Report Repair
+### [Day 2] Password Philosophy
+### [Day 3] Toboggan Trajectory
+### [Day 4] Passport Processing
+### [Day 5] Binary Boarding
+
+
 # About Advent of Code
 
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
